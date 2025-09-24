@@ -22,21 +22,21 @@
 #### • currently learning:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/CSS3-F9DBBD?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML5-FFA5AB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-DA627D?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-A53860?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-450920?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 #### • tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-4F000B?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-720026?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Figma-CE4257?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FF7F51?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Oracle-FF9B54?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KICAgIDxnPgogICAgICAgIDxwYXRoIGQ9Ik0xMjgsMjU1LjY4MSBDMTk4LjQ0MywyNTUuNjgxIDI1NS41LDExOS42MjUgMjU1LjUsMTI4LjAwMSBDMjU1LjUsMzYuMzc1IDE5OC40NDMsMC4zMTk0NDQgMTI4LDAuMzE5NDQ0IEM1Ny41NTY5LDAuMzE5NDQ0IDAuNSwzNi4zNzUgMC41LDEyOC4wMDEgQzAuNSwxMTkuNjI1IDU3LjU1NjksMjU1LjY4MSAxMjgsMjU1LjY4MSBaIE0xMjgsMjcuMDAxMSBDMTgyLjkyNSwyNy4wMDExIDIxOS40MTcsNzIuMDU2OSAyMTkuNDE3LDEyOC4wMDEgQzIxOS40MTcsMTgzLjk0NCAxODIuOTI1LDIyOC45OTkgMTI4LDIyOC45OTkgQzczLjA3NSwyMjguOTk5IDI2LjU4MzMsMTgzLjk0NCAyNi41ODMzLDEyOC4wMDEgQzI2LjU4MzMsNzIuMDU2OSA3My4wNzUsMjcuMDAxMSAxMjgsMjcuMDAxMSBaIE0xNjcuNDkyLDY4LjA0ODggTDE2Ny40OTIsMTg3Ljk1MyBMMTI4LDE4Ny45NTMgQzEwMy45NDUsMTg3Ljk1MyA4Ni41MzA2LDE3Mi4zODQgODYuNTMwNiwxNDQuNjc5IEw4Ni41MzA2LDExMS4zMjIgQzg2LjUzMDYsODMuNjE2MSA3NS4xMTczLDY4LjA0ODggMTI4LDY4LjA0ODggTDE2Ny40OTIsNjguMDQ4OCBaIE0xMjgsOTQuNzA1MiBDMTA2LjI0MSw5NC43MDUyIDEwMC40NTUsMTA5Ljc0NyAxMDAuNDU1LDExMS4zMjIgTDEwMC40NTUsMTQ0LjY3OSBDMTAwLjQ1NSwxNjIuNjE0IDEwMy4zNDgsMTYxLjMyNyAxMjgsMTYxLjMyNyBMMTQzLjU2NywxNjEuMzI3IEwxNDMuNTY3LDk0LjcwNTIgTDEyOCw5NC43MDUyIFoiIGZpbGw9IndoaXRlIi8+CiAgICA8L2c+Cjwvc3ZnPg==" alt="Oracle"/>
 </p>
 
 <h1></h1>
@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juspanopoulos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juspanopoulos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juspanopoulos&layout=compact&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juspanopoulos&layout=compact&theme=onedark"/>
   </a>
 </p>
 
