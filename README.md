@@ -57,12 +57,10 @@
 <h3>🔗 let's connect!</h3>
 
 
-  <a href="https://linkedin.com/in/juspanopoulos" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://linkedin.com/in/juspanopoulos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KICAgIDxnPgogICAgICAgIDxwYXRoIGQ9Ik0yMTguNTIzLDIxOC41MjEgTDIxOC41MjMsMTQ0LjM3MSBDMjE4LjUyMywxMDcuODcxIDIxMC4xNDUsODMuMDM2MSAxNjcuMDk2LDgzLjAzNjEgQzE0NS41NzIsODMuMDM2MSAxMzIuNzUzLDk0LjQzNjEgMTI3LjE2NSwxMDQuODQ5IEwxMjYuODg3LDEwNC44NDkgTDEyNi44ODcsODYuNTM3MSBMMTA0LjAzLDg2LjUzNzEgTDEwNC4wMywyMTguNTIxIEwxMjcuODg0LDIxOC41MjEgTDEyNy44ODQsMTUyLjM3MSBDMTI3Ljg4NCwxMzQuMzc3IDEzMS43MDcsMTIwLjY4NSAxNTAuOTM3LDEyMC42ODUgQzE3MC4xNjcsMTIwLjY4NSAxNzAuMTY3LDEzNy4zMTQgMTcwLjE2NywxNTIuMzcxIEwxNzAuMTY3LDIxOC41MjEgTDIxOC41MjMsMjE4LjUyMSBaIE00Ny4yODk4LDY5LjcwMzEgQzM0LjQzOTgsNjkuNzAzMSAyMy45Mjk4LDU5LjE5MjEgMjMuOTI5OCw0Ni4zNDExIEMyMy45Mjk4LDMzLjQ5MTIgMzQuNDM5OCwyMyA0Ny4yODk4LDIzIEM2MC4xMzk4LDIzIDcwLjY1MDgsMzMuNDkxMiA3MC42NTA4LDQ2LjM0MTEgQzcwLjY1MDgsNTkuMTkyMSA2MC4xMzk4LDY5LjcwMzEgNDcuMjg5OCw2OS43MDMxIFogTTM1LjM2MzgsMjE4LjUyMSBMNTkuMjE1OCwyMTguNTIxIEw1OS4yMTU4LDg2LjUzNzEgTDM1LjM2MzgsODYuNTM3MSBMMzUuMzYzOCwyMTguNTIxIFoiIGZpbGw9IndoaXRlIi8+CiAgICA8L2c+Cjwvc3ZnPg==" alt="LinkedIn"/></a>
   <a href="mailto:jusspan@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://instagram.com/juspanopoulos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/963927458384597043" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 </div>
