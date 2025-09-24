@@ -52,8 +52,8 @@
   </a>
 </p>
 
----
-
+<h1></h1>
+<div align="center">
 ### 🔗 let's connect!
 
 <p align="left">
@@ -65,3 +65,4 @@
   </a>
   <a href="https://instagram.com/juspanopoulos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
+</div>
