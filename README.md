@@ -19,7 +19,7 @@
 
 <h1></h1>
 
-### • currently learning:
+#### • currently learning:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
 
-### • tools:
+#### • tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
@@ -41,7 +41,7 @@
 
 <h1></h1>
 
-### 📊 my GitHub stats
+#### 📊 my GitHub stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,9 +54,9 @@
 
 <h1></h1>
 <div align="center">
-### 🔗 let's connect!
+<h3>🔗 let's connect!</h3>
 
-<p align="left">
+
   <a href="https://linkedin.com/in/juspanopoulos" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -64,5 +64,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://instagram.com/juspanopoulos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  </p>
+
 </div>
