@@ -6,7 +6,7 @@
   i am a student of <strong>systems analysis and development</strong> at FIAP. 🚀</p>
 </div><br>
 
-<img src="https://github.com/juspanopoulos/profileimage/blob/main/jugit.png?raw=true" alt="ilustração por @maerya_art no instagram" width="170px" align="right" style="border-radius:50%;" href="https://www.instagram.com/maerya_art/">
+<a href="https://www.instagram.com/maerya_art/" alt="ilustração por @maerya_art no instagram"><img src="https://github.com/juspanopoulos/profileimage/blob/main/jugit.png?raw=true" width="170px" align="right" style="border-radius:50%;"></a>
 
 #### 💫 about me
 <ul>
